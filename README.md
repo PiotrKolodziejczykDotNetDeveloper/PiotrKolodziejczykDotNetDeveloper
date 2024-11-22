@@ -1,16 +1,71 @@
-- 👋 Hi, I’m @PiotrKolodziejczyk
-I am a programmer with five years of experience in the IT industry, specializing in C# technology and the .NET platform.
-I hold an engineering degree in Informatics and Econometrics, which I earned at the University of Computer Science and Economics in Cracow.
-My programming journey began in 2017 when I started my studies.
-In December 2019, I landed my first job at Media-press as a 'Junior .NET Developer'.
-During my first two years, I supported internal users and developed and maintained software for data acquisition and parsing.
-We gathered data from various external sources such as websites, FTP servers, and APIs. Thanks to this work, I understood regular expressions and techniques for extracting data from websites.
-Later, I transitioned to the 'Backend' team, where I was promoted to 'Mid .NET Developer'.
-In this team, I am responsible for maintaining and developing backend services, creating new REST API solutions and background workers, and migrating legacy services to modern .NET versions.
-My responsibilities also include integrating applications in containerized environments such as Docker/Kubernetes,
-working with Postgres SQL/MS SQL databases, deploying applications using CI/CD pipelines,
-and collaborating with various technologies like Entity Framework, LLBLGEN, GIT, Rabbit, Kafka, Elasticsearch, Redis, Azure, Solr, and many others.
-<!---
-PiotrKolodziejczykDotNetDeveloper/PiotrKolodziejczykDotNetDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👨‍💻 Hello! I'm **Piotr Kołodziejczyk** 🎉
+
+🌟 **Welcome to my GitHub profile!**
+
+---
+
+## 🚀 About Me
+
+👋 Hi, I’m **Piotr Kołodziejczyk**, a **programmer** with **5 years of experience** in the IT industry, specializing in **C#** and the **.NET platform**. I hold an engineering degree in **Informatics and Econometrics** from the **University of Computer Science and Economics in Cracow**. 
+
+💻 My journey as a developer started in **2017** during my studies. Since then, I have been passionately building software and expanding my skill set.
+
+---
+
+## 🛠️ My Career Path
+
+- 🏢 **Junior .NET Developer** at **Media-press** (December 2019 - 2021)
+  - Supported internal users.
+  - Developed and maintained software for **data acquisition and parsing**.
+  - Specialized in **regular expressions** and web scraping from websites, FTP servers, and APIs.
+
+- 🚀 **Mid .NET Developer** at **Media-press** (2021 - Present)
+  - Maintained and developed **backend services**.
+  - Built and migrated **REST APIs** and legacy systems to **modern .NET versions**.
+  - Worked with **containerized environments** such as **Docker/Kubernetes**.
+  - Built CI/CD pipelines and deployed applications to production.
+
+---
+
+## 🔧 Technologies & Tools
+
+🌐 Backend:
+- **C#, .NET Core/Framework, REST APIs**
+- **Entity Framework, LLBLGEN**
+
+📦 Containerization & Deployment:
+- **Docker, Kubernetes**
+- **Azure DevOps, CI/CD pipelines**
+
+📊 Databases:
+- **Postgres SQL, MS SQL**
+
+📡 Messaging & Search:
+- **RabbitMQ, Kafka**
+- **Elasticsearch, Solr, Redis**
+
+🛠️ Others:
+- **Git**, **Regular Expressions**, **Web Scraping**
+
+---
+
+## 💡 Fun Facts About Me
+
+- ♟️ I love **chess** (both online and live tournaments)!
+- 🥋 I’m a fan of **MMA** and regularly watch **UFC** and **KSW** events.
+- 🌱 I’m currently diving deeper into **Artificial Intelligence (AI)** and **Machine Learning**.
+- 🎯 Always eager to tackle challenging projects and learn new technologies.
+
+---
+
+## 📫 Let's Connect!
+
+🌐 [**Portfolio Website**](https://piotr-kolodziejczyk.pl/)
+
+📧 **Email**: piotr.kolodziejczyk.net@gmail.com 
+
+🔗 [**LinkedIn**](https://www.linkedin.com/in/piotr-ko%C5%82odziejczyk-71a987182/)  
+
+---
+
+Thanks for visiting! Have a great day! 🚀✨
